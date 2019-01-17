@@ -2,9 +2,9 @@
 
 * [gitbook-playground](README.md)
 * [Sample page](sample-page.md)
-* [README](readme.md)
+* [README](readme-1.md)
 
-## Group X
+## Organizing our work
 
 * [Page in group x](group-x/page-in-group-x.md)
 
