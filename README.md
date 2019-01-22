@@ -9,6 +9,10 @@ def hello():
     print("Hello world")
 ```
 
+[[Foo]]
+
+[Foo](./Foo.md)
+
 Items
 
 1. Foo
